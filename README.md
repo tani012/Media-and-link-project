@@ -8,6 +8,7 @@ The objective of this program is to analyze a WhatsApp group chat text file and 
 
 The C program reads the contents of the WhatsApp group chat text file line by line. It extracts usernames, counts the occurrences of "<Media omitted>", and identifies URLs using regular expressions. After processing the file, the program provides the counts of media and links shared by each user in the chat.
 
+
 ## How to Use
 
 1. Compile the program using a C compiler (e.g., GCC):
